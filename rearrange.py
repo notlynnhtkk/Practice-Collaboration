@@ -1,3 +1,5 @@
+#! /Users/linnhtet/anaconda3/bin/python
+
 def rearrange_name(full_name):
     # Split the full name into Last Name and First Name
     last_name, first_name = full_name.split(', ')
